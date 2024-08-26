@@ -9,3 +9,14 @@ Console.Write("Ange efternamn: ");
 string efternamn = Console.ReadLine();
 Console.WriteLine("Hej! " + förnamn + " " + efternamn);
 Console.WriteLine($"Hej! {förnamn} {efternamn}");
+
+//Är det Johnnie som loggar in
+if (förnamn == "Johnnie")
+{
+    Console.WriteLine("Vad trevligt att du är tillbaka!");
+}
+
+if (efternamn == "a")
+{
+    Console.WriteLine("ok");
+}
