@@ -1,4 +1,4 @@
-// Spelet BlackJack, även kallat 21:an
+/* // Spelet BlackJack, även kallat 21:an
 Console.Clear();
 Console.WriteLine("Spelet BlackJack");
 
@@ -95,4 +95,4 @@ else if (summaSpelare > summaDator)
 else
 {
     Console.WriteLine("Du har förlorat");
-}
+} */
